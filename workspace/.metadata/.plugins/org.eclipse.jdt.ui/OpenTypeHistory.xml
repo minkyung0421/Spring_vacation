@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=SpringMVC1/src\/main\/java&lt;com.mvc.service{ArticleService.java[ArticleService" modifiers="513" timestamp="1532579112745"/>
+<typeInfo handle="=SpringMVC2/src\/main\/java&lt;user.persistence{UserDAO.java[UserDAO" modifiers="513" timestamp="1532673019217"/>
+<typeInfo handle="=SpringMVC2/src\/main\/java&lt;user.service{UserService.java[UserService" modifiers="513" timestamp="1532673390233"/>
+<typeInfo handle="=SpringMVC4/src\/main\/java&lt;reply.persistence{ReplyDAO.java[ReplyDAO" modifiers="513" timestamp="1533176224624"/>
+<typeInfo handle="=SpringMVC4/src\/main\/java&lt;reply.service{ReplyService.java[ReplyService" modifiers="513" timestamp="1533177029825"/>
+</typeInfoHistroy>

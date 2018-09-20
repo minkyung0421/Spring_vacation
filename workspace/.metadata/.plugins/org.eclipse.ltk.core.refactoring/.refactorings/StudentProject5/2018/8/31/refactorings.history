@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;3학년 5반.png&apos; to &apos;resources&apos;&#x0D;&#x0A;- Original project: &apos;StudentProject5&apos;&#x0D;&#x0A;- Destination element: &apos;resources&apos;&#x0D;&#x0A;- Original element: &apos;3학년 5반.png&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="src/main/webapp/resources/css/3학년 5반.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1533261023782" target="src/main/webapp/resources" units="0" version="1.0"/>
+</session>

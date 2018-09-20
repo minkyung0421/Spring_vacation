@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringJDBCExam1/src/main/resources/beans2.xml&apos; to &apos;beans.xml&apos;" description="Rename resource &apos;beans2.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/beans2.xml" name="beans.xml" stamp="1525951373851" updateReferences="true"/>
+</session>

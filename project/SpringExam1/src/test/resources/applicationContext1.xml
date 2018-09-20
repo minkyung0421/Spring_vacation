@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id = "sony" class = "com.exam.test5.SonySpeaker"></bean>
+	<bean id="tv" class="com.exam.test5.SamsungTV">
+		<constructor-arg ref = "sony"></constructor-arg>
+	</bean>
+	
+	
+	<!-- 
+		com.exam.test4.SamsungTV tv = 
+			new com.exam.test4.SamsungTV();
+	 -->
+	 
+	 <bean id = "apple" class = "com.exam.test5.AppleSpeaker"></bean>
+	 <bean id = "tv1" class = "com.exam.test5.LgTV">
+	 	<property name = "speaker" ref = "apple"></property>
+	 </bean> 
+	
+</beans>
